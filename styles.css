@@ -4,3 +4,4 @@
 .wordmark em{font-size:24px;line-height:1;align-self:flex-end;padding-bottom:2px}
 .wordmark{align-items:baseline;gap:9px}.wordmark em{font-size:24px;line-height:1;padding-bottom:0;align-self:auto;transform:translateY(-1px)}
 .wordmark{align-items:center;gap:10px}.wordmark em{font-size:24px;line-height:1;position:relative;top:-5px;transform:none}
+.wordmark em{top:0}
